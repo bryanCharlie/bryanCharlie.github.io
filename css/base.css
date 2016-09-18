@@ -92,8 +92,12 @@ section#about-me p {
 /* contact section */
 
 section#contact {
-	margin-top: 10rem;
-	margin-bottom: 10rem;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+section#contact h2 {
+  margin-bottom: 15rem;
 }
 
 @media {
