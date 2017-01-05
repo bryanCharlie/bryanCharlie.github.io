@@ -122,14 +122,6 @@ section#contact h2 {
         /* default height landscape*/
         height: 768px;
     }
-
-    .ipadfix{
-        height: 300px !important;
-    }
-    img.ipadfix{
-        width:100% !important; 
-        height:auto !important;
-    }
 }
 /* fix for the ipad */
 @media (min-device-width : 768px) and (max-device-width : 1024px) and (orientation: portrait) {
@@ -145,14 +137,6 @@ section#contact h2 {
         background-attachment: scroll;
         /* default height landscape*/
         height: 320px;
-    }
-
-    .ipadfix{
-        height: 150px !important;
-    }
-    img.ipadfix{
-        width:100% !important; 
-        height:auto !important;
     }
 }
 /* fix for the iphone */
